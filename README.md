@@ -6,16 +6,16 @@ The framework supports **test execution with Allure Reports**, providing **detai
 
 ## **✅ Implemented Test Cases**
 
-### **1️⃣ Login Tests (`test_login.py`)**
+### **1️⃣ Login Tests **
 - ✅ **Test valid login** → Logs in successfully with correct credentials.
 - ✅ **Test invalid login** → Verifies error message for wrong credentials.
 - ✅ **Test empty login** → Ensures error message is shown for empty fields.
 
-### **2️⃣ Cart Management Tests (`test_cart.py`)**
+### **2️⃣ Cart Management Tests **
 - ✅ **Test add to cart** → Adds an item and verifies it appears in the cart.
 - ✅ **Test remove from cart** → Removes an item from the cart successfully.
 
-### **3️⃣ Checkout Flow Tests (`test_checkout.py`)**
+### **3️⃣ Checkout Flow Tests **
 - ✅ **Test checkout process** → Completes a successful order transaction.
 
 ---
